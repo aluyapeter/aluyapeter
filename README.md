@@ -6,5 +6,4 @@ A Software developer who is optimistic and passionate about learning, building a
 I also love working with the developer communities on a global scale and building cool demos.
 
  - <h4>You can connect with me on:</h4>
-    Twitter: @jolonto_ </br>
-    LinkedIn: Peter Aluya
+    Twitter: @i47thsaint </br>
