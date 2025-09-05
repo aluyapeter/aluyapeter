@@ -1,1 +1,1 @@
-#### Learning Go and documenting the process through articles
+#### Making useful tools in Go and documenting the process through articles
