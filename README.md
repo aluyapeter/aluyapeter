@@ -1,7 +1,6 @@
 # Hi, I'm Peter 👋
 
-I'm a backend developer learning **Go (Golang)** and diving into **Cloud & DevOps**.  
-Currently building APIs, CLI tools, and exploring cloud deployment with Docker, CI/CD, and Kubernetes.
+I'm a backend developer using **Go (Golang)**, currently building APIs, CLI tools, and exploring cloud deployment with Docker, CI/CD, and Kubernetes.
 
 ---
 
