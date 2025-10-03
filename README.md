@@ -1,26 +1,11 @@
 # Hi, I'm Peter 👋
 
-I'm a backend developer using **Go (Golang)**, currently building APIs, CLI tools, and exploring cloud deployment with Docker, CI/CD, and Kubernetes.
-
----
-
-## 🚀 What I'm Working On
-- Building backend projects in **Go** (APIs, CLI tools).
-- Learning **Cloud & DevOps**: Docker, Kubernetes, Terraform, AWS/GCP.
-- Writing about my learning journey on [Hashnode](https://hashnode.com/@Jolonto).
-
----
-
-## 📌 Featured Projects
-- [**Task CLI Manager**](https://github.com/aluyapeter/williamsgov) – A CLI app to manage tasks, built in Go.
-
----
+I'm a backend developer, currently building APIs and CLI tools with Python and Go, and exploring cloud deployment with Docker, CI/CD, and Kubernetes.
 
 ## 🛠️ Tech Stack
-- **Languages**: Go
-- **Backend**: Gin, net/http, REST APIs  
+- **Languages**: Python, Go
 - **Databases**: PostgreSQL, MongoDB, Redis  
-- **Cloud/DevOps**: Docker, GitHub Actions, AWS, Kubernetes  
+- **Cloud/DevOps**: Docker, GitHub Actions
 
 ---
 
