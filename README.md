@@ -1,6 +1,6 @@
-# Hi, I'm Peter 👋
+# Hi, I'm Saint 👋
 
-I'm a backend developer, currently building APIs and CLI tools with Python and Go, and exploring cloud deployment with Docker, CI/CD, and Kubernetes.
+I'm a backend developer, currently building APIs and CLI tools with Python and Go, and exploring cloud deployment with Docker and CI/CD
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, Go
