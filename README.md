@@ -1,5 +1,5 @@
 ### 📫 Get in Touch
-- ### LinkedIn: (https://www.linkedin.com/in/peter-aluya-83a323357/?trk=opento_sprofile_topcard)  
+- ### LinkedIn: [LinkedIn](https://www.linkedin.com/in/peter-aluya-83a323357/?trk=opento_sprofile_topcard)  
 - ### Twitter: @i4thsaint
 - ### Email: aluyapeter7@gmail.com
 
@@ -12,3 +12,4 @@ I'm a backend developer, currently building APIs and CLI tools with Python and G
 - **Databases**: PostgreSQL, MongoDB, Redis  
 - **Cloud/DevOps**: Docker, GitHub Actions
 
+**[Project Charter](/docs/PROJECT_CHARTER.md)**
