@@ -11,4 +11,4 @@ I'm a backend developer, currently building APIs and CLI tools with Python and G
 
 ## 📫 Get in Touch
 - LinkedIn: (https://www.linkedin.com/in/peter-aluya-83a323357/?trk=opento_sprofile_topcard)  
-- Twitter: @x4thsaint
+- Twitter: @i4thsaint
