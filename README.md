@@ -37,4 +37,4 @@ I enjoy playing football in real life and also in games, mostly football manager
 *Connect with me to discuss backend architecture, fintech innovation, or just to share knowledge.*
 * **LinkedIn**: [Saint](https://www.linkedin.com/in/peter-aluya-83a323357/?trk=opento_sprofile_topcard)  
 * **X**: [i47thsaint](https://x.com/i47thsaint?t=bHhsZJgEXhEvQM84rqH01Q&s=09)
-* **Email**: [Gmail](aluyapeter7@gmail.com)
+* **Email**: aluyapeter7@gmail.com
