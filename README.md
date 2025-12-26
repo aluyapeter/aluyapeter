@@ -31,7 +31,7 @@ I enjoy playing football in real life and also in games, mostly football manager
 
 | Recent Project | Description & Tech Stack |
 | :--- | :--- |
-| **Wallet Service** | A secure personal wallet system featuring Google Sign-In and Paystack integration. Deployed on AWS.<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <br> [🔗 View Repository](github.com/aluyapeter/wallet_service) |
+| **Wallet Service** | A secure personal wallet system featuring Google Sign-In and Paystack integration. Deployed on AWS.<br><br><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /><br> [🔗 View Repository](github.com/aluyapeter/wallet_service) |
 
 ---
 *Connect with me to discuss backend architecture, fintech innovation, or just to share knowledge.*
